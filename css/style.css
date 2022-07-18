@@ -1,0 +1,161 @@
+.one{
+    width: 700px;
+    height: 100px;
+    background: rgb(241, 125, 125);
+    display: flex;
+    
+}
+
+.two{
+    width: 100px;
+    height: 100px;
+    background: rgb(142, 218, 142);
+}
+
+.three{
+    width: 100px;
+    height: 100px;
+    background: rgb(235, 71, 147);
+}
+
+.four{
+    width: 100px;
+    height: 100px;
+    background: rgb(108, 76, 253);
+}
+
+.five{
+    width: 100px;
+    height: 100px;
+    background: rgb(215, 245, 108);
+}
+
+.six{
+    width: 100px;
+    height: 100px;
+    background: rgb(150, 8, 216);
+}
+
+.seven{
+    width: 100px;
+    height: 100px;
+    background: rgb(45, 90, 60);
+}
+
+.eight{
+    width: 100px;
+    height: 100px;
+    background: rgb(118, 129, 160);
+}
+
+.nine{
+    width: 700px;
+    height: 200px;
+    background: rgb(58, 105, 236);
+}
+
+.ten{
+    width: 700px;
+    height: 150px;
+    background: rgb(7, 117, 93);
+    display: flex;
+}
+
+.eleven{
+    width: 150px;
+    height: 150px;
+    background: rgb(129, 16, 82);
+}
+
+.twelve{
+    width: 200px;
+    height: 150px;
+    background: rgb(48, 71, 9);
+}
+
+.thirteen{
+    width: 350px;
+    height: 150px;
+    background: rgb(27, 13, 230);
+}
+
+.fourteen{
+    width: 700px;
+    height: 100px;
+    background: rgb(216, 93, 11);
+    display: flex;
+}
+
+.fifteen{
+    width: 240px;
+    height: 100px;
+    background: rgb(116, 8, 8);
+}
+.eighteen{
+    width: 240px;
+    height: 100px;
+    background: rgb(188, 233, 25);
+}
+
+.nineteen{
+    width: 240px;
+    height: 100px;
+    background: rgb(20, 19, 19);
+}
+
+.tweenty{
+    width: 240px;
+    height: 100px;
+    background: rgb(44, 9, 51);
+}
+
+.sixteen{
+    width: 220px;
+    height: 300px;
+    background: rgb(34, 31, 202);
+}
+
+
+
+.seventeen{
+    width: 240px;
+    height: 300px;
+    background: rgb(25, 102, 6);
+}
+.tweentyone{
+    width: 240px;
+    height: 150px;
+    background: rgb(146, 25, 31);
+}
+
+.tweentythree{
+    width: 80px;
+    height: 150px;
+    background: rgb(177, 221, 74);
+}
+
+.tweentyfour{
+    width: 160px;
+    height: 150px;
+    background: rgb(146, 25, 96);
+}
+
+.tweentytwo{
+    width: 240px;
+    height: 150px;
+    background: rgb(57, 119, 81);
+    display: flex;
+}
+
+.tweentyfive{
+    width: 80px;
+    height: 150px;
+    background: rgb(119, 57, 81);
+}
+
+.tweentysix{
+    width: 160px;
+    height: 150px;
+    background: rgb(226, 83, 17);
+}
+
